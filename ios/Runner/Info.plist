@@ -4,6 +4,10 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>NSCameraUsageDescription</key>
+	<string>이 앱은 일기에 사진을 추가하기 위해 카메라 접근 권한이 필요합니다.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>이 앱은 일기에 사진을 추가하기 위해 갤러리 접근 권한이 필요합니다.</string>
 	<key>CFBundleDisplayName</key>
 	<string>Voice Photo Diary</string>
 	<key>CFBundleExecutable</key>
